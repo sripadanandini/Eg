@@ -44,7 +44,7 @@
         android:layout_below="@+id/settingsimg" />
     
     <TextView
-              android:text="Project" />
+              android:text="Project hi" />
 
     <Switch
         android:layout_width="wrap_content"
