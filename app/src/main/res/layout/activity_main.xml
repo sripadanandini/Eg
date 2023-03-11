@@ -42,7 +42,19 @@
         android:textSize="20dp"
         android:layout_marginTop="20dp"
         android:layout_below="@+id/settingsimg" />
-
+       <TextView
+        android:id="@+id/nightmode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:text="Night Mode"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:layout_marginLeft="20dp"
+        android:textSize="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_below="Suppi" />
+   
     <Switch
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
